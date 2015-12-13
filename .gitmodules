@@ -156,4 +156,4 @@
 	url = git://github.com/mehrbauen/minetest-irc.git
 [submodule "mods/irc_commands"]
 	path = mods/irc_commands
-	url = https://github.com/ShadowNinja/minetest-irc_commands.git
+	url = https://github.com/mehrbauen/minetest-irc_commands.git
