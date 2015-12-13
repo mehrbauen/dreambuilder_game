@@ -138,7 +138,7 @@
 	url = https://github.com/Sokomine/cottages.git
 [submodule "mods/homedecor_modpack"]
 	path = mods/homedecor_modpack
-	url = https://github.com/VanessaE/homedecor_modpack.git
+	url = https://github.com/mehrbauen/homedecor_modpack.git
 [submodule "mods/moreblocks"]
 	path = mods/moreblocks
 	url = https://github.com/Calinou/moreblocks.git
