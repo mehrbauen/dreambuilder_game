@@ -151,3 +151,6 @@
 [submodule "mods/biome_lib"]
 	path = mods/biome_lib
 	url = https://github.com/VanessaE/biome_lib.git
+[submodule "mods/irc"]
+	path = mods/irc
+	url = git@github.com:mehrbauen/minetest-irc.git
