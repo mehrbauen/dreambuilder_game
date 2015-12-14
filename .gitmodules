@@ -157,3 +157,6 @@
 [submodule "mods/irc_commands"]
 	path = mods/irc_commands
 	url = https://github.com/mehrbauen/minetest-irc_commands.git
+[submodule "mods/boost_cart"]
+	path = mods/boost_cart
+	url = https://github.com/SmallJoker/boost_cart.git
