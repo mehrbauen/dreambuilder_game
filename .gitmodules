@@ -108,7 +108,7 @@
 	url = https://github.com/ChaosWormz/teleport-request.git
 [submodule "mods/travelnet"]
 	path = mods/travelnet
-	url = git://github.com/Sokomine/travelnet.git
+	url = git://github.com/mehrbauen/travelnet.git
 [submodule "mods/ufos"]
 	path = mods/ufos
 	url = https://github.com/Zeg9/minetest-ufos.git
