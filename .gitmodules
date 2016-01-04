@@ -163,3 +163,6 @@
 [submodule "mods/subterrain"]
 	path = mods/subterrain
 	url = https://github.com/paramat/subterrain.git
+[submodule "mods/nether"]
+	path = mods/nether
+	url = https://github.com/PilzAdam/nether.git
