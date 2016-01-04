@@ -160,3 +160,6 @@
 [submodule "mods/boost_cart"]
 	path = mods/boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
+[submodule "mods/subterrain"]
+	path = mods/subterrain
+	url = https://github.com/paramat/subterrain.git
