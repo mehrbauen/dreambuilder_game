@@ -166,3 +166,6 @@
 [submodule "mods/nether"]
 	path = mods/nether
 	url = https://github.com/PilzAdam/nether.git
+[submodule "mods/snow"]
+	path = mods/snow
+	url = https://github.com/Splizard/minetest-mod-snow.git
