@@ -178,3 +178,6 @@
 [submodule "mods/mobf_core"]
 	path = mods/mobf_core
 	url = https://github.com/sapier/mobf_core.git
+[submodule "mods/adv_spawning"]
+	path = mods/adv_spawning
+	url = https://github.com/sapier/adv_spawning.git
