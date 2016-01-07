@@ -175,3 +175,6 @@
 [submodule "mods/animalmaterials"]
 	path = mods/animalmaterials
 	url = https://github.com/sapier/animalmaterials.git
+[submodule "mods/mobf_core"]
+	path = mods/mobf_core
+	url = https://github.com/sapier/mobf_core.git
