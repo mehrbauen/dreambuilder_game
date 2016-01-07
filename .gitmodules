@@ -172,3 +172,6 @@
 [submodule "mods/animals_modpack"]
 	path = mods/animals_modpack
 	url = https://github.com/sapier/animals_modpack.git
+[submodule "mods/animalmaterials"]
+	path = mods/animalmaterials
+	url = https://github.com/sapier/animalmaterials.git
