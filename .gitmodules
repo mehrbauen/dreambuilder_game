@@ -169,3 +169,6 @@
 [submodule "mods/snow"]
 	path = mods/snow
 	url = https://github.com/Splizard/minetest-mod-snow.git
+[submodule "mods/animals_modpack"]
+	path = mods/animals_modpack
+	url = https://github.com/sapier/animals_modpack.git
