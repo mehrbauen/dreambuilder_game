@@ -168,4 +168,4 @@
 	url = https://github.com/Splizard/minetest-mod-snow.git
 [submodule "mods/mobs"]
 	path = mods/mobs
-	url = https://github.com/tenplus1/mobs.git
+	url = https://github.com/mehrbauen/mobs.git
