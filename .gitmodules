@@ -7,9 +7,6 @@
 [submodule "mods/blox"]
 	path = mods/blox
 	url = https://github.com/VanessaE/blox.git
-[submodule "mods/carbone_mobs"]
-	path = mods/carbone_mobs
-	url = https://github.com/Calinou/carbone_mobs.git
 [submodule "mods/carts"]
 	path = mods/carts
 	url = git://github.com/PilzAdam/carts.git
